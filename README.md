@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Kshitija Banala</h1>
-<h3 align="center">Senior majoring in Data Science at Penn State</h3>
 
 - 🔭 I’m currently working on **building my Github profile with data science projects.**
 
