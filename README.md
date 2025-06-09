@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Kshitija Banala</h1>
+<h1 align="center">Hi, my name is Kshitija Banala</h1>
 
 - 🔭 I’m currently working on **building my Github profile with data science projects.**
 
@@ -7,7 +7,7 @@
 
 - I’m looking for help with **front end applications, ideally displaying my projects on a website.**
 
-- I’m currently learning **advanced data science skills (deep learning, data integration) along with various computational stiatsics methods (Bayesian Inference, Monte Carlo methods).**
+-Recent Data Science grad | Expertise in data integration, predictive modeling & statistical analysis | Skilled in Python, SQL, R, and Power BI.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
