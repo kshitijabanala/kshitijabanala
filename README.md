@@ -7,7 +7,7 @@
 
 - I’m looking for help with **front end applications, ideally displaying my projects on a website.**
 
-- Recent Data Science grad | Expertise in data integration, predictive modeling & statistical analysis | Skilled in Python, SQL, R, and Power BI.**
+- Recent Data Science grad | Expertise in data integration, predictive modeling & statistical analysis | Skilled in Python, SQL, R, and Power BI.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
